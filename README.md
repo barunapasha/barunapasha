@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm barunapasha</h1>
-<h3 align="center">An Undergraduated Computer Science who have passion in Front-End Developer & Data Analyst. Currently a student in Universitas Pertamina</h3>
+<h3 align="center">An Undergraduated Computer Science who have passion in Software Engineer Specially in Front-End. Currently a student in Universitas Pertamina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barunapasha&label=Profile%20views&color=0e75b6&style=flat" alt="barunapasha" /> </p>
 
